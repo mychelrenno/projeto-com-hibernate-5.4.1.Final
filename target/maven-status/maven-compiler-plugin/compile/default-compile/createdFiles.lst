@@ -1,0 +1,4 @@
+dao\ClienteDAO.class
+entidades\Cliente.class
+hibernate\HibernateUtil.class
+com\testedois\Main.class
